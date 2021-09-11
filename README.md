@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Romualdo
 
-🌱 I’m learning...
+🌱 I’m ...learning
 
 ## Tecnologies I have work with
 
