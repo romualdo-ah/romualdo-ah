@@ -2,7 +2,7 @@
 
 🌱 I’m ...learning
 
-## Tecnologies I have work with
+## Tecnologies I have worked with
 
  Javascript, Typescript, ReactJS, NextJS, Node.js, Python, VB6, GIT, Github and HTML/CSS.
 
