@@ -6,4 +6,4 @@
 
  Javascript, Typescript, ReactJS, NextJS, Node.js, Python, VB6, GIT, Github and HTML/CSS.
 
-Be placed to contact me at romualdoah@gmail.com.
+Be pleased to contact me at romualdoah@gmail.com.
