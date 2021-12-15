@@ -4,6 +4,17 @@
 
 ## Tecnologies I have worked with
 
- Javascript, Typescript, ReactJS, NextJS, Node.js, Python, C++, C#, VB6, GIT, Github and HTML/CSS.
+ HTML/CSS,
+ Javascript,
+ ReactJS,
+ NextJS,
+ Node.js,
+ Typescript
+ Python, 
+ C++,
+ C#,
+ VB6,
+ GIT,
+ Github 
 
 Contact me at romualdoah@gmail.com.
