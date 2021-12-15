@@ -12,12 +12,12 @@
  Typescript,
  
  Python, 
- 
- Java,
- 
+  
  C++,
  C#,
  VB6,
+ 
+ Java,
  
  GIT,
  Github 
