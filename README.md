@@ -4,28 +4,20 @@
 
 ## Tecnologies I have worked with
 
- HTML/CSS,
- 
+ HTML/CSS, 
  Javascript,
- 
  ReactJS,
- 
  NextJS,
- 
  Node.js,
- 
  Typescript,
  
  Python, 
  
  C++,
- 
  C#,
- 
  VB6,
  
  GIT,
- 
  Github 
  
 
