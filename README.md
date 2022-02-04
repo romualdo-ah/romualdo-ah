@@ -4,19 +4,21 @@
 
 ## Tecnologies I have worked with
 
- HTML/CSS, 
+ HTML/CSS,
  Javascript,
+ 
  ReactJS,
  NextJS,
- Node.js,
  Typescript,
+ 
+ Node.js,
  
  Python, 
   
  a bit of:
  
-  C++,
-  VB6,
+ C++,
+ VB6,
  
  in the begining:
  
