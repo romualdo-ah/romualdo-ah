@@ -13,11 +13,13 @@
  
  Python, 
   
- C++,
- C#,
- VB6,
+ a bit of:
+  C++,
+  VB6,
  
+ in the begining:
  Java,
+ C#,
  
  GIT,
  Github 
