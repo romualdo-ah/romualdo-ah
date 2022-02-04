@@ -14,7 +14,11 @@
  Node.js,
  
  Python, 
-  
+ 
+ 
+ GIT,
+ Github 
+ 
  ### a bit of:
  
  C++,
@@ -23,10 +27,6 @@
  ### in the begining:
  
  Java,
- C#,
- 
- GIT,
- Github 
- 
+ C#, 
 
 Contact me at romualdoah@gmail.com.
