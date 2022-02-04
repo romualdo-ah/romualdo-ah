@@ -15,12 +15,12 @@
  
  Python, 
   
- a bit of:
+ ### a bit of:
  
  C++,
  VB6,
  
- in the begining:
+ ### in the begining:
  
  Java,
  C#,
