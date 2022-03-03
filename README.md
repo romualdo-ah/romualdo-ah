@@ -24,7 +24,7 @@
  C++,
  VB6,
  
- ### in the begining:
+ ### at the begining it was:
  
  Java,
  C#, 
