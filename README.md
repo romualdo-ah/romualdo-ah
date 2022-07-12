@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Romualdo
 
-🌱 I’m ...a continuous learner.
+🌱 I write code.
 
 ## Tecnologies I have worked with
 
