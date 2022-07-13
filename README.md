@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Romualdo
 
-🌱 I write code.
+🌱 I write code and create solutions.
 
 ## Tecnologies I have worked with
 
